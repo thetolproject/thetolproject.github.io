@@ -4,6 +4,8 @@ object-assign
 @license MIT
 */
 
+/*! fromentries. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
 /**
  * @license Fraction.js v4.1.2 23/05/2021
  * https://www.xarg.org/2014/03/rational-numbers-in-javascript/
